@@ -1,1 +1,3 @@
-# Simple_CICD
+# maven-project
+
+Simple Maven Project
